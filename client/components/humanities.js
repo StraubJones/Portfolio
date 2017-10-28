@@ -23,7 +23,7 @@ class Humanities extends React.Component {
           <a href="http://scalar.usc.edu/works/phd-lab-pedagogy-project/index">PERUSE THE PROJECT</a>
           <a href="http://sites.fhi.duke.edu/phdlab/">LEARN MORE ABOUT THE DUKE PHD LAB IN DIGITAL KNOWLEDGE</a>
         </figure>
-
+        <br />
       </div>
     )
   }
